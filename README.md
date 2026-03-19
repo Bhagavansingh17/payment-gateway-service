@@ -190,6 +190,19 @@ This project demonstrates real-world backend concepts used in:
 
 ---
 
+## 📸 Screenshots
+
+### Payment API
+![Payment](images/payment.png)
+
+### Ledger
+![Ledger](images/ledger.png)
+
+### Webhook
+![Webhook](images/webhook.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Bhagavan Singh**
